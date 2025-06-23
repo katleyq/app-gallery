@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "gatsby develop",
-    "build": "gatsby build",
-    "serve": "gatsby serve --port 3020",
-    "clean": "gatsby clean"
+    "start": "npx gatsby develop",
+    "build": "npx gatsby build",
+    "serve": "npx gatsby serve --port 3020",
+    "clean": "npx gatsby clean"
   },
   "repository": {
     "type": "git",
